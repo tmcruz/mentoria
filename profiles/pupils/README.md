@@ -118,3 +118,4 @@
 - [William Meneses](profiles/WilliamMeneses.md)
 - [William Correa](profiles/WilliamCorrea.md)
 - [Yuri Brunetto](profiles/YuriBrunetto.md)
+- [Thiago M. Cruz](profiles/thiagoMorasticoCruz.md)
